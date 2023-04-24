@@ -1,0 +1,7 @@
+#hexo robots.txt
+User-agent: *
+
+Allow: /
+
+Sitemap: http://yunhea.com/sitemap.xml
+Sitemap: http://yunhea.com/baidusitemap.xml
